@@ -6,32 +6,21 @@ This project contains Jupyter notebooks that demonstrate various machine learnin
 ## 🧠 Algorithms Covered
 
 ✅ Supervised Learning
-Linear Regression – For predicting continuous values
+Linear Regression
+Logistic Regression 
+Decision Tree
+Support Vector Machine (SVM)
+Naive Bayes 
 
-Logistic Regression – For binary classification tasks
-
-Decision Tree – Tree-based classification and regression
-
-Support Vector Machine (SVM) – For classification with margin maximization
-
-Naive Bayes – Probabilistic classifier based on Bayes' Theorem
-
-🔍 Unsupervised Learning
-K-Means Clustering – Clustering algorithm to group similar data
-
+## 🔍 Unsupervised Learning
+K-Means Clustering 
 Principal Component Analysis (PCA) – Dimensionality reduction technique
 
-📊 Exploratory Data Analysis (EDA)
+## 📊 Exploratory Data Analysis (EDA)
 Data cleaning
-
 Statistical summaries
-
 Visualizations (e.g., histograms, boxplots, scatter plots)
-
 Correlation analysis
-
-
-
 
 ## Tools Used
 
