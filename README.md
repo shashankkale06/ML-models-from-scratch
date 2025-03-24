@@ -3,7 +3,8 @@
 This project contains Jupyter notebooks that demonstrate various machine learning algorithms, organized by topic.
 
 
-🧠 Algorithms Covered
+##🧠 Algorithms Covered
+
 ✅ Supervised Learning
 Linear Regression – For predicting continuous values
 
